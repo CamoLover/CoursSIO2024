@@ -14,7 +14,8 @@ int a = 4;
 int b = 7;
 // ... a remplir
 }
-}```
+}
+```
 
 ### Exercice 2
 Écrivez un programme Java qui prend un nombre en entrée et vérifie s'il est pair ou impair. Affichez un
@@ -27,7 +28,8 @@ public static void main(String[] args) {
 int nb = 2;
 // ... a remplir
 }
-}```
+}
+```
 
 ### Exercice 3
 Le programme calculera le prix d’une place de cinéma.
@@ -48,7 +50,8 @@ boolean isChild = true ;
 boolean isRegistred = true ;
 // ... a remplir
 }
-}```
+}
+```
 
 ### Exercice 4
 Écrire un programme qui affiche/récupère le nom du jour en fonction du numéro du jour dans une semaine
